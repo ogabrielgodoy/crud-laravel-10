@@ -1,0 +1,11 @@
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Roboto:wght@700&display=swap');
+
+  body{
+    font-family: Roboto;
+  }
+
+  table{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
